@@ -1,0 +1,9 @@
+.slick-slider {
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
+.MuiChartsLegend-mark { 
+  border-radius: 99px;
+}
